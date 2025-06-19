@@ -1,0 +1,7 @@
+,Model_name,Train_Accuracy,Validation_Accuracy,Test_Accuracy
+0,ScratchModel1,79.3,72.1,72
+1,ScratchModel2,79.2,68.45,71.17
+2,Scratch_Model_With_SkipConnection,76.24,70.21,74.17
+3,InceptionResNetV2,89.55,84.76,85.1
+4,ResnetModel152,97.93,88.28,90.81
+5,EfficientNetV2B2,90.9,82.5,85.29
